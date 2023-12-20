@@ -51,7 +51,7 @@ function getCircleCircumference(r) {
  */
 function getAverage(f, s) {
   const a = (f + s) / 2;
-  return BigInt(a);
+  return a;
 }
 
 /**
